@@ -38,3 +38,5 @@ Download the project, put the features files mentioned above in folder â€œdataâ€
 python code/main.py
 ```
 The result will be stored in "prediction_save/test.txt". Note that the label 0-5 corresponds to CC, LW, PW, PPH, IPH in the paper respectively.
+
+archive
